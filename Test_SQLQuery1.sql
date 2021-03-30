@@ -1,0 +1,4 @@
+
+
+select 'hi'
+select getdate()
