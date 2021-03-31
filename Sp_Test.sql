@@ -28,5 +28,7 @@ BEGIN
 	select getdate()
 
 	select 'next day'
+
+	select 'next day 2'
 END
 GO
