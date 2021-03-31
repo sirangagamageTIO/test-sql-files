@@ -26,5 +26,7 @@ BEGIN
 	SET NOCOUNT ON;
 
 	select getdate()
+
+	select 'next day'
 END
 GO
